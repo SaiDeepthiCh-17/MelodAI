@@ -14,7 +14,7 @@ Explorative (High randomness)
 ⬇️ Download generated MIDI files
 🎯 Best melody selection
 
-#Project Structure
+#📂Project Structure
 MelodAI/
 │
 ├── app.py                # Streamlit UI
@@ -29,3 +29,11 @@ MelodAI/
 ├── mel3.mid / .wav
 │
 └── dataset/             # Processed dataset
+
+#⚙️ Tech Stack
+Python
+TensorFlow / Keras
+music21
+pretty_midi
+Streamlit
+NumPy
